@@ -1,1 +1,8 @@
-Distribucion del Software
+Gonzalo Escudero
+Giordano Valdivia
+Mario Tataje
+
+AST_DISDAT_DIAG-CU
+AST_DISDAT_STRU-CLASES
+AST_DISDAT_MOD-DIS
+AST_DISDAT_DIC-DATOS
